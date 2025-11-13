@@ -1,0 +1,16 @@
+# Node modules (besar banget, jangan di-upload)
+node_modules/
+
+# Folder build cache dari Tailwind (kalau ada)
+*.log
+.cache/
+dist/
+build/
+
+# System files (dari VS Code / OS)
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Env & konfigurasi pribadi (kalau ada)
+.env
